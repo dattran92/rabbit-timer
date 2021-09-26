@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rabbit-timer/static/css/main.af361168.chunk.css",
-    "main.js": "/rabbit-timer/static/js/main.cbd92e23.chunk.js",
-    "main.js.map": "/rabbit-timer/static/js/main.cbd92e23.chunk.js.map",
+    "main.css": "/rabbit-timer/static/css/main.43350c69.chunk.css",
+    "main.js": "/rabbit-timer/static/js/main.5c6420aa.chunk.js",
+    "main.js.map": "/rabbit-timer/static/js/main.5c6420aa.chunk.js.map",
     "runtime-main.js": "/rabbit-timer/static/js/runtime-main.36eb5b93.js",
     "runtime-main.js.map": "/rabbit-timer/static/js/runtime-main.36eb5b93.js.map",
     "static/js/2.7ad9a58c.chunk.js": "/rabbit-timer/static/js/2.7ad9a58c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0c53ef80.chunk.js": "/rabbit-timer/static/js/3.0c53ef80.chunk.js",
     "static/js/3.0c53ef80.chunk.js.map": "/rabbit-timer/static/js/3.0c53ef80.chunk.js.map",
     "index.html": "/rabbit-timer/index.html",
-    "static/css/main.af361168.chunk.css.map": "/rabbit-timer/static/css/main.af361168.chunk.css.map",
+    "static/css/main.43350c69.chunk.css.map": "/rabbit-timer/static/css/main.43350c69.chunk.css.map",
     "static/js/2.7ad9a58c.chunk.js.LICENSE.txt": "/rabbit-timer/static/js/2.7ad9a58c.chunk.js.LICENSE.txt",
     "static/media/carrot.f824eadc.jpg": "/rabbit-timer/static/media/carrot.f824eadc.jpg",
     "static/media/rabbit.c00e47da.gif": "/rabbit-timer/static/media/rabbit.c00e47da.gif"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.36eb5b93.js",
     "static/js/2.7ad9a58c.chunk.js",
-    "static/css/main.af361168.chunk.css",
-    "static/js/main.cbd92e23.chunk.js"
+    "static/css/main.43350c69.chunk.css",
+    "static/js/main.5c6420aa.chunk.js"
   ]
 }
