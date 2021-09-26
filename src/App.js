@@ -31,7 +31,7 @@ function Timer({ timer, goBack}) {
     setTotal(total)
     setDelay(1000)
     setCount(0)
-    setAudio(new Audio('/mario_game_over.mp3'))
+    setAudio(new Audio('./mario_game_over.mp3'))
   }, [timer])
 
   useInterval(() => {
