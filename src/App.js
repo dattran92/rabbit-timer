@@ -11,9 +11,9 @@ function TimePicker({ timer, setTimer }) {
   const [second, setSecond] = useState('00')
   return (
     <div className='time-picker'>
-      <input type="text" mode="number" onChange={(e) => setHour(e.target.value)} value={hour} />
-      <input type="text" mode="number" onChange={(e) => setMinute(e.target.value)} value={minute} />
-      <input type="text" mode="number" onChange={(e) => setSecond(e.target.value)} value={second} />
+      <input type="text" inputmode="numeric" onChange={(e) => setHour(e.target.value)} value={hour} />
+      <input type="text" inputmode="numeric" onChange={(e) => setMinute(e.target.value)} value={minute} />
+      <input type="text" inputmode="numeric" onChange={(e) => setSecond(e.target.value)} value={second} />
       <button onClick={() => setTimer(`${hour}:${minute}:${second}`)}>SET</button>
     </div>
   )

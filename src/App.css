@@ -10,6 +10,10 @@ body {
   text-align: right;
 }
 
+input {
+  font-size: 1.4em
+}
+
 .timer-container {
   padding-right: 20px;
   position: relative;
