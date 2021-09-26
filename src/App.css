@@ -3,7 +3,7 @@ div {
 }
 
 body {
-  background-color: #F0EDE6;
+  background-color: #D5B78B; /* #FCF2D8 */
 }
 
 .nav {
@@ -17,7 +17,7 @@ input {
 .timer-container {
   padding-right: 20px;
   position: relative;
-  margin-right: 100px;
+  margin-right: 80px;
 }
 
 .rabbit {
@@ -33,7 +33,7 @@ input {
 .carrot-container {
   position: absolute;
   right: 0;
-  top: 52px;
+  top: 50px;
 }
 
 .carrot {
