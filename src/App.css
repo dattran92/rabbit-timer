@@ -1,0 +1,48 @@
+div {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F0EDE6;
+}
+
+.nav {
+  text-align: right;
+}
+
+.timer-container {
+  padding-right: 20px;
+  position: relative;
+  margin-right: 100px;
+}
+
+.rabbit {
+  transform: scaleX(-1);
+  transition: margin 700ms;
+  mix-blend-mode: darken;
+}
+
+.rabbit-container {
+  margin-right: 200px;
+}
+
+.carrot-container {
+  position: absolute;
+  right: 0;
+  top: 52px;
+}
+
+.carrot {
+  mix-blend-mode: darken;
+}
+
+.progress  {
+  width: 100%;
+  height: 3px;
+  padding: 0 100px;
+}
+
+.progress .progress-fill {
+  border-top: 3px dashed black;
+  transition: width 700ms;
+}
