@@ -1,5 +1,6 @@
 {
   "name": "rabbit-timer",
+  "homepage": "https://dattran92.github.io/rabbit-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
