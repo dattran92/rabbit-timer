@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rabbit-timer/static/css/main.af361168.chunk.css",
-    "main.js": "/rabbit-timer/static/js/main.96bd6f71.chunk.js",
-    "main.js.map": "/rabbit-timer/static/js/main.96bd6f71.chunk.js.map",
+    "main.js": "/rabbit-timer/static/js/main.cbd92e23.chunk.js",
+    "main.js.map": "/rabbit-timer/static/js/main.cbd92e23.chunk.js.map",
     "runtime-main.js": "/rabbit-timer/static/js/runtime-main.36eb5b93.js",
     "runtime-main.js.map": "/rabbit-timer/static/js/runtime-main.36eb5b93.js.map",
     "static/js/2.7ad9a58c.chunk.js": "/rabbit-timer/static/js/2.7ad9a58c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.36eb5b93.js",
     "static/js/2.7ad9a58c.chunk.js",
     "static/css/main.af361168.chunk.css",
-    "static/js/main.96bd6f71.chunk.js"
+    "static/js/main.cbd92e23.chunk.js"
   ]
 }
